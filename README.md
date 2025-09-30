@@ -1,4 +1,4 @@
-# Netflix Clone — ElevateLabs Task 6
+# ElevateLabs Task 6 - Static Site on Github Pages
 
 Simple static website (HTML, CSS, JS) that mimics a Netflix-style UI.
 This repository contains the static files ready for local testing and GitHub Pages deployment.
@@ -31,7 +31,7 @@ Open `index.html` in your browser (or run a local server) to preview the site.
 
 ---
 
-## Deploy to GitHub Pages — step-by-step
+## Deploy to GitHub Pages - step-by-step
 
 ### A. Create the GitHub repository (web UI)
 1. On GitHub, click **New repository**.  
